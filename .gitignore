@@ -1,0 +1,34 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE and editor folders
+.vscode/
+.idea/
+*.log
+
+# Composer dependencies
+/vendor/
+
+# Node dependencies
+/node_modules/
+
+# WordPress core files (optional if you don’t want to track them)
+wp-admin/
+wp-includes/
+
+# Uploads (optional – contains media files)
+wp-content/uploads/
+
+# Cache
+wp-content/cache/
+wp-content/advanced-cache.php
+wp-content/object-cache.php
+
+# WordPress config (contains DB credentials – DO NOT UPLOAD!)
+wp-config.php
+wp-config-local.php
+
+# Debug logs
+debug.log
+wp-content/debug.log

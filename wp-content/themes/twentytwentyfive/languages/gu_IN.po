@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MyTheme\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: gu_IN\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Manual\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language-Team: Gujarati\n"
+"MIME-Version: 1.0\n"
+
+#: page-about.php:10
+msgid "Welcome to the About Page"
+msgstr "આ વિશેના પેજમાં આપનું સ્વાગત છે"
+
+#: page-about.php:11
+msgid "This is the about section of our website."
+msgstr "આ અમારી વેબસાઇટનો વિશે વિભાગ છે."
