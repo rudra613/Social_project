@@ -24,4 +24,4 @@ get_header();
 </div>
 
 <?php get_footer(); ?>
-<h1>This is a User </h1>
+<h1>This is a User commit</h1>
