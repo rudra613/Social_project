@@ -24,4 +24,4 @@ get_header();
 </div>
 
 <?php get_footer(); ?>
-<h1>hello</h1>
+<h1>hello Everyone</h1>
