@@ -24,3 +24,4 @@ get_header();
 </div>
 
 <?php get_footer(); ?>
+<h1>hello how are you</h1>
