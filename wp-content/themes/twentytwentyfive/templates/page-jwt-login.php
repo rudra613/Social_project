@@ -23,5 +23,4 @@ get_header();
   <button id="logout-btn">Logout</button>   
 </div>
 
-<h1>this is a login page</h1>
 <?php get_footer(); ?>
