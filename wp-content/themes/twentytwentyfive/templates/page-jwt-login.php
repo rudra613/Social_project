@@ -20,7 +20,8 @@ get_header();
 <div id="posts-area" style="display: none;">
   <h2>Protected Posts</h2>
   <div id="posts-container"></div>
-  <button id="logout-btn">Logout</button>   
+  <button id="logout-btn">Logout</button>  
 </div>
 
 <?php get_footer(); ?>
+<h1>This is a User </h1>
